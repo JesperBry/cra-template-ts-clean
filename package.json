@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-ts-clean",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "clean"
+  ],
+  "description": "A clean TypeScript template for Create React App",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesperBry/cra-template-ts-clean.git"
+  },
+  "author": "Jesper Brynildsen",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/JesperBry/cra-template-ts-clean/issues"
+  },
+  "homepage": "https://github.com/JesperBry/cra-template-ts-clean#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
