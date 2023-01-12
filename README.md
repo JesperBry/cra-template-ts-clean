@@ -1,6 +1,6 @@
 # cra-template-ts-clean
 
-This is a cleand version of the official typescript template form CRA. This template also extends with setting up a developing and production enviorment with Docker and Nginx (See all the commands inn the Makefile).
+This is a cleand version of the official typescript template form CRA. This template also extends with setting up a developing and production enviorment with Docker and Nginx (See all the commands in the Makefile).
 
 ## Usage
 
