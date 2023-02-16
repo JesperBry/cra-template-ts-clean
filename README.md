@@ -5,7 +5,7 @@ This is a cleand version of the official typescript template form CRA. This temp
 ## Usage
 
 ```bash
-$ npx create-react-app [name of app/location] --template ts-clean
+npx create-react-app [name of app/location] --template ts-clean
 ```
 
 ## Project structure
